@@ -9,7 +9,7 @@ En este módulo estás aprendiendo a estructurar bases de datos. Tu tarea ahora 
 
 
 ## Pre-entrega Modulo 3- unidad 5
- Archivo: `SQLQueryBodegaTech`
+ Archivo: `SQLQueryBodegaTech.sql`
 - DDL y DML en SQL: administrando el inventario de BodegaTech
 
 Propósito del ejercicio
