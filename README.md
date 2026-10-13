@@ -18,5 +18,11 @@ En el trabajo diario de un analista de datos, escribir SQL no significa solo con
 Contexto
 Sos el administrador de base de datos de BodegaTech, una empresa distribuidora de productos tecnológicos. El sistema anterior era una planilla de Excel desorganizada y tu tarea es migrar el inventario a una base de datos SQL correctamente estructurada, cargarlo con los productos actuales y registrar las primeras operaciones del día.
 
+## Pre-entrega 3: Script SQL para esquema normalizado y datos iniciales
+ Archivo:`Ventas_Tech_db.sql`
+ -Un archivo de texto llamado ventas_tech_db.sql con cuatro secciones claramente separadas por comentarios: DROP, CREATE, INSERT y VALIDACIÓN.
+ Contexto del caso
+Sos el DBA de TechStore, una cadena de tiendas de tecnología. Tenés que crear la base Ventas_Tech_DB con un modelo relacional que soporte las operaciones de venta del negocio.
+
 
 
